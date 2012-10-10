@@ -1,0 +1,14 @@
+name = Strap
+description = Bootstrap-friendly sub-theme.
+screenshot = images/screenshot.jpeg
+core = 7.x
+base theme = twitter_bootstrap
+
+; Styles
+stylesheets[all][] = styles/style.css
+
+; Information added by drush on 2012-10-10
+version = "master-dev"
+project = "frontstrap"
+datestamp = "1349885415"
+

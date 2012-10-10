@@ -1,0 +1,11 @@
+name = Update Custom Settings
+description = Custom settings for the updates notifications.
+dependencies[] = update
+core = 7.x
+files[] = update_custom_settings.module
+; Information added by drupal.org packaging script on 2012-04-21
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "update_custom_settings"
+datestamp = "1334969418"
+
